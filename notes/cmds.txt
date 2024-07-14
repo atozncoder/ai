@@ -1,0 +1,6 @@
+GCP:
+ssh -i .ssh/gcp-ssh-key aca@34.170.239.141
+
+Hyperspace:
+ssh -i .ssh/gcp-ssh-key debian@149.36.1.206
+
