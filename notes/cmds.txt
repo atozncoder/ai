@@ -2,7 +2,7 @@ GCP:
 ssh -i .ssh/gcp-ssh-key aca@34.170.239.141
 
 Hyperspace: (username depends on the OS)
-ssh -i .ssh/gcp-ssh-key debian@149.36.1.83
-ssh -i .ssh/gcp-ssh-key ubuntu@149.36.1.83
+ssh -i .ssh/gcp-ssh-key debian@94.101.98.174
+ssh -i .ssh/gcp-ssh-key ubuntu@94.101.98.174
 
 
