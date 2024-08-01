@@ -6,3 +6,21 @@ ssh -i .ssh/gcp-ssh-key debian@94.101.98.174
 ssh -i .ssh/gcp-ssh-key ubuntu@94.101.98.174
 
 
+GIT:
+Create token on git hub: select read os 
+
+Ubuntu cmds:
+
+apt install git
+apt install gh
+
+git config --global user.email "aleksandarszlatkovic@gmail.com"
+gh auth login
+
+Choose GitHub.com
+Choose HTTPS
+Choose Authenticate Git with your GitHub credentials? Yes
+Choose authentication token as login method
+
+Paste auth token
+
